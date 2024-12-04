@@ -150,7 +150,15 @@ paths:
         description: Post the necessary fields for the API to create a new user.
       description: Create a new user.
       x-stoplight:
-        id: 89s5w2k54meqk
+        id: s2ibvouzckrrk
+  /crops/:
+    get:
+      summary: crops
+      tags: []
+      responses: {}
+      operationId: get-crops
+      x-stoplight:
+        id: s2ibvouzckrrk
 components:
   schemas:
     User:
