@@ -1,0 +1,15 @@
+{
+  "title": "sugarcane",
+  "x-stoplight": {
+    "id": "a7ds4mabs9stc"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "a7ds4mabs9stc"
+      }
+    }
+  }
+}
