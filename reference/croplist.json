@@ -59,7 +59,7 @@
         "operationId": "get-users-userId",
         "description": "Retrieve the information of the user with the matching user ID.",
         "x-stoplight": {
-          "id": "i31c6jwfydwu7"
+          "id": "wu7o8tisikett"
         }
       },
       "patch": {
@@ -141,7 +141,7 @@
           "description": "Patch user properties to update."
         },
         "x-stoplight": {
-          "id": "fczivr9azwqg3"
+          "id": "wu7o8tisikett"
         }
       }
     },
@@ -223,7 +223,7 @@
         },
         "description": "Create a new user.",
         "x-stoplight": {
-          "id": "n9uf68fc5agcr"
+          "id": "wu7o8tisikett"
         }
       }
     }
@@ -262,7 +262,7 @@
           "lastName": {
             "type": "string",
             "x-stoplight": {
-              "id": "wcpynckpmg3j2"
+              "id": "wu7o8tisikett"
             }
           },
           "email": {
